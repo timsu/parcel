@@ -1,15 +1,12 @@
 {
-  "name": "@parcel/monorepo",
+  "name": "parcel-bundler",
+  "version": "1.12.6",
   "description": "Blazing fast, zero configuration web application bundler",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/parcel-bundler/parcel.git"
   },
-  "private": true,
-  "workspaces": [
-    "packages/*/*"
-  ],
   "scripts": {
   },
   "devDependencies": {
